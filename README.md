@@ -1,5 +1,5 @@
 # template
-###Para no guardar cache -> para no retroceder al index
+##Para no guardar cache -> para no retroceder al index
 ```
 <%
 response.setHeader("Cache-Control", "no-cache"); //Forces caches to obtain a new copy of the page from the origin server
