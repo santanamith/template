@@ -1,5 +1,4 @@
 # template
-templates
 ###Para no guardar cache -> para no retroceder al index
 ```
 <%
